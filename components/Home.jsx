@@ -10,6 +10,7 @@ export default function Home() {
       <div className="hero">
         <div className="card">
           <h1>Hi — I'm {displayName}.</h1>
+          <p>This site was updated via CI/CD deployment — Assignment Demo.</p>
           <p>I build clean, useful web apps focused on accessibility and delightful UI. Currently studying Software Engineering Technology and exploring full‑stack development.</p>
 
           <div className="cta-row">
